@@ -1,5 +1,6 @@
-module Tutorial(
+module Tutorial1(
 );
+//SOMETHING HERE
 
 // Welcome to Arctic Fox! In the first step, we will describe the code structure of an Automation. 
 // It was important to us that Automations could be compiled by typical industry standard tools. 
